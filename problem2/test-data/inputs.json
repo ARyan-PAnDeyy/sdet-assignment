@@ -1,0 +1,16 @@
+[
+    {"id":"TC_01","input":"abcabcbb","expected":"3"},
+    {"id":"TC_02","input":"bbbbb","expected":"1"},
+    {"id":"TC_03","input":"abcdef","expected":"6"},
+    {"id":"TC_04","input":"a","expected":"1"},
+    {"id":"TC_05","input":"pwwkew","expected":"3"},
+    {"id":"TC_06","input":"dvdf","expected":"3"},
+    {"id":"TC_07","input":"aA","expected":"2"},
+    {"id":"TC_08","input":"12#12#","expected":"3"},
+    {"id":"TC_09","input":"a b c","expected":"3"},
+    {"id":"TC_10","input":"aabcdef","expected":"6"},
+    {"id":"TC_11","input":"ababab","expected":"2"},
+    {"id":"TC_12","input":"aa","expected":"1"},
+    {"id":"TC_13","input":"1231234","expected":"4"},
+    {"id":"TC_14","input":"aAbB12aA","expected":"6"}
+]
